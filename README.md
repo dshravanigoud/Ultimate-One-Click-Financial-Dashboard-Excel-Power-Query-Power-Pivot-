@@ -49,7 +49,9 @@ The dashboard supports:
 All calculations are dynamically driven by DAX measures — no manual updates required.
 
 ---
+## 🖥 Dashboard Preview
 
+![Financial Dashboard](images/dashboard.png)
 # 🏗 Dashboard Architecture
 
 ![Financial Dashboard](images/financial_dashboard.png)
